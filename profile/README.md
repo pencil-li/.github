@@ -34,7 +34,6 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/miguelgargallo/miguelgargallo/.github/workfolws/snake.svg" alt="Snake animation" />
 
 
 ###
