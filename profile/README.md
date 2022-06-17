@@ -4,26 +4,14 @@
 
 ###
 <div align="center">
-  <a href="https://twitter.com/miguelgargallo" target="_blank">
+  <a href="https://twitter.com/pencildomains" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/miguelgargallo/" target="_blank">
+  <a href="https://www.linkedin.com/company/pencildomains/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/miguelgargallo.es" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCB0EZDQC0FYKXnVN7k6d9XQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://twitch.tv/miguelgargallo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/18185259/miguel-gargallo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://codesandbox.io/u/miguelgargallo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
   </a>
 </div>
 
@@ -32,9 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Score | andorra.mg@gmail.com&username=miguelgargallo" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&custom_title=Code Skills | +1 (407) 706-7844&username=miguelgargallo" height="150" alt="languages graph"  />
 </div>
-
-###
-
 
 ###
 <h4 align="center">My iOS Apps</h4>
@@ -79,7 +64,7 @@
 </div>
 
 ###
-<h2 align="left">TEAM</h2>
+<h2 align="left">We are TEAM</h2>
 
 ###
 <div align="left">
@@ -88,7 +73,7 @@
 </div>
 
 ###
-<h2 align="left">I code mainly...</h2>
+<h2 align="left">We code projects mainly...</h2>
 
 ###
 <div align="left">
@@ -117,7 +102,7 @@
 </div>
 
 ###
-<h2 align="left">Building servers...</h2>
+<h2 align="left">We build servers too!</h2>
 
 ###
 <div align="left">
@@ -138,7 +123,7 @@
 </div>
 
 ###
-<h2 align="left">11 years ago I started playing and designing with Sketch with my Mac.</h2>
+<h2 align="left">Team knowledge over 11 years of experience.</h2>
 
 ###
 <div align="left">
@@ -146,7 +131,7 @@
 </div>
 
 ###
-<h2 align="left">Over 10 years coding, with XCode by Apple and now Visual Studio Code</h2>
+<h2 align="left">Over 10 years coding by the team, with XCode by Apple and now Visual Studio Code</h2>
 
 ###
 <div align="left">
@@ -157,7 +142,7 @@
 </div>
 
 ###
-<h3 align="left">I code projects on the web in the past with:</h3>
+<h3 align="left">We code projects on the web in the past with:</h3>
 
 ###
 <div align="left">
@@ -167,7 +152,7 @@
 </div>
 
 ###
-<h3 align="left">I used and know how to work with:</h3>
+<h3 align="left">We are used and know how to work with:</h3>
 
 ###
 <div align="left">
@@ -187,7 +172,7 @@
 </div>
 
 ###
-<h2 align="left">I am certified and I do professional projects with:</h2>
+<h2 align="left">Officially certified and I do professional projects with:</h2>
 
 ###
 <div align="left">
