@@ -21,6 +21,25 @@ This repository contains a collection of public repositories under the account "
 ![License](https://img.shields.io/badge/license-PYLAR%20AI%20creative%20ML%204.0.0-blue)
 
 ## Language Distribution
+
+This repository contains a collection of public repositories under the account "pencildomains". Here is a table summarizing the language distribution for each repository:
+
+| Repository                  | TypeScript | JavaScript | Dockerfile | Vue  | Swift | Markdown | Shell | Python | HTML | CSS  |
+|-----------------------------|------------|------------|------------|------|-------|----------|-------|--------|------|------|
+| dnser                       | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) | ![Dockerfile](https://img.shields.io/badge/-Dockerfile-blue) | -    | -     | -        | -     | -      | -    | -    |
+| dnser-docs                  | ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) | -          | -          | ![Vue](https://img.shields.io/badge/-Vue-green)     | -     | -        | -     | -      | -    | -    |
+| localpass                   | -          | -          | -          | -    | ![Swift](https://img.shields.io/badge/-Swift-orange)  | -        | -     | -      | -    | -    |
+| brandidentity               | -          | -          | -          | -    | -     | ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey) | -     | -      | -    | -    |
+| Domains                     | -          | -          | -          | -    | -     | ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey) | -     | -      | -    | -    |
+| Youtube-Thumbnail-Maker     | -          | -          | -          | -    | -     | -        | ![Shell](https://img.shields.io/badge/-Shell-lightgrey)   | -      | -    | -    |
+| Github-Top-30               | -          | -          | -          | -    | -     | -        | -     | ![Python](https://img.shields.io/badge/-Python-blue)   | -    | -    |
+| Pylar-AI-creative-ML-License| -          | -          | -          | -    | -     | ![Markdown](https://img.shields.io/badge/-Markdown-lightgrey) | -     | -      | -    | -    |
+| Homepage                    | -          | -          | -          | -    | -     | -        | -     | -      | ![HTML](https://img.shields.io/badge/-HTML-orange)| ![CSS](https://img.shields.io/badge/-CSS-blue) |
+| Homepage-Developer          | -          | -          | -          | -    | -     | -        | -     | -      | ![HTML](https://img.shields.io/badge/-HTML-orange)| ![CSS](https://img.shields.io/badge/-CSS-blue) |
+| Homepage-Fastest            | -          | -          | -          | -    | -     | -        | -     | -      | ![HTML](https://img.shields.io/badge/-HTML-orange)| ![CSS](https://img.shields.io/badge/-CSS-blue) |
+| Homepage-Docs               | -          | -          | -          | -    | -     | -        | -     | -      | ![HTML](https://img.shields.io/badge/-HTML-orange)| ![CSS](https://img.shields.io/badge/-CSS-blue) |
+| Homepage-Canarcoin          | -          | -          | -          | -    | -     | -        | -     | -      | ![HTML](https://img.shields.io/badge/-HTML-orange)| ![CSS](https://img.shields.io/badge/-CSS-blue) |
+
 # Pencil Domains GitHub Repositories
 
 This repository contains a collection of public repositories under the account "pencildomains". Here is a table summarizing the language distribution for each repository:
