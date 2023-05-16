@@ -1,6 +1,6 @@
 # Pencil Domains GitHub Repositories
 
-This repository contains a collection of public repositories under the account "pencildomains". Here is a table summarizing each repository:
+This repository contains a collection of public repositories under the account "pencildomains". Here is a table summarizing the language distribution for each repository:
 
 | Repository                  | Description                                                | Updated       |
 |-----------------------------|------------------------------------------------------------|---------------|
@@ -20,105 +20,23 @@ This repository contains a collection of public repositories under the account "
 
 ![License](https://img.shields.io/badge/license-PYLAR%20AI%20creative%20ML%204.0.0-blue)
 
-## dnser
+## Language Distribution
+# Pencil Domains GitHub Repositories
 
-List for resolving any TLDs from Handshake to ICANN, now with the official Pencil Domains API.
+This repository contains a collection of public repositories under the account "pencildomains". Here is a table summarizing the language distribution for each repository:
 
-Languages:
-- TypeScript: 92.1%
-- JavaScript: 5.4%
-- Dockerfile: 2.5%
-
-## dnser-docs
-
-Documentation for the dnser project.
-
-Languages:
-- Vue: 74.1%
-- TypeScript: 25.9%
-
-## localpass
-
-Repository for managing local passwords.
-
-Languages:
-- md: 100%
-
-## brandidentity
-
-Languages:
-- md: 100%
-
-Repository related to brand identity management.
-
-Languages:
-- md: 100%
-
-## Domains
-
-Repository for managing Handshake domains.
-
-Languages:
-- md: 100%
-
-## Youtube-Thumbnail-Maker
-
-Script for creating YouTube video thumbnails.
-
-Languages:
-- Shell: 100.0%
-
-## Github-Top-30
-
-Tool for finding the top 30 most starred projects on GitHub.
-
-Languages:
-- Python: 85.4%
-- Shell: 14.6%
-
-## Pylar-AI-creative-ML-License
-
-Repository for Pylar AI creative ML License.
-
-Languages:
-- Markdown: 100.0%
-
-## Homepage
-
-Repository for the Pencil website homepage.
-
-Languages:
-- HTML: 99.3%
-- CSS: 0.7%
-
-## Homepage-Developer
-
-Repository for the developer section of the Pencil website.
-
-Languages:
-- HTML: 97.0%
-- CSS: 3.0%
-
-## Homepage-Fastest
-
-Temporary site when the registry is under maintenance.
-
-Languages:
-- HTML: 88.1%
-- CSS: 11.9%
-
-## Homepage-Docs
-
-Repository for the documentation of the Pencil.li site.
-
-Languages:
-- HTML: 91.6%
-- CSS: 8.4%
-
-## Homepage-Canarchain
-
-Repository for the Canarchain website by Pencil Works LLC.
-
-Languages:
-- HTML: 87.8%
-- CSS: 12.2%
+| Repository                  | TypeScript | JavaScript | Dockerfile | Vue  | Swift | Markdown | Shell | Python | HTML | CSS  |
+|-----------------------------|------------|------------|------------|------|-------|----------|-------|--------|------|------|
+| dnser                       | 92.1%      | 5.4%       | 2.5%       | -    | -     | -        | -     | -      | -    | -    |
+| dnser-docs                  | 25.9%      | -          | -          | 74.1%| -     | -        | -     | -      | -    | -    |
+| localpass                   | -          | -          | -          | -    | 100%  | -        | -     | -      | -    | -    |
+| brandidentity               | -          | -          | -          | -    | -     | 100%     | -     | -      | -    | -    |
+| Domains                     | -          | -          | -          | -    | -     | 100%     | -     | -      | -    | -    |
+| Youtube-Thumbnail-Maker     | -          | -          | -          | -    | -     | -        | 100%  | -      | -    | -    |
+| Github-Top-30               | -          | -          | -          | -    | -     | -        | -     | 85.4%  | -    | -    |
+| Pylar-AI-creative-ML-License| -          | -          | -          | -    | -     | 100%     | -     | -      | -    | -    |
+| Homepage                    | -          | -          | -          | -    | -     | -        | -     | -      | 99.3%| 0.7% |
+| Homepage-Developer          | -          | -          | -          | -    | -     | -        | -     | -      | 97.0%| 3.0% |
+| Homepage-Fastest            | -          | -          | -          | -    | -     | -        | -     | -      | 88.1%| 11.9%|
+| Homepage-Docs               | -          | -          | -          | -    | -     | -        | -     | -      | 91.6%| 8.4% |
+| Homepage-Canarchain         | -          | -          | -          | -    | -     | -        | -     | -      | 87.8%| 12.2%|
