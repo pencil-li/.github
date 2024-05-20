@@ -6,6 +6,7 @@ This repository contains a collection of public repositories under the account "
 
 | Repository                  | Description                                                | Updated       |
 |-----------------------------|------------------------------------------------------------|---------------|
+| [epicevilsassets](https://github.com/pencil-li/epicevilsassets)                       | Repo for EpicEvils Assets        | May 20, 2024   |
 | [dnser](https://github.com/pencil-li/dnser)                       | List for resolving any TLDs from Handshake to ICANN        | Apr 25, 2023   |
 | [dnser-docs](https://github.com/pencil-li/dnser-docs)                  | Documentation for the dnser project                        | Apr 20, 2023   |
 | [localpass](https://github.com/pencil-li/localpass)                   | Repository for managing local passwords                    | Apr 10, 2023   |
